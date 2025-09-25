@@ -1,4 +1,4 @@
-Report: Big Data Analytics Project Workflow
+# **Report: Big Data Analytics Project Workflow**
 
 1. Project Overview
 This report details the structure of the BigDataAnalytics project hosted on GitHub. The project appears to be a series of data analysis tasks implemented entirely in Jupyter Notebook. The repository contains a sequence of commits or files that suggest a structured workflow for processing and analyzing data, likely using PySpark for big data operations.
