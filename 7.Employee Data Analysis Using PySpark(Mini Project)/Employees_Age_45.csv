@@ -1,0 +1,276 @@
+EmpID,Age,Department,JobRole,MonthlyIncome,Attrition,PerformanceRating
+RM030,46,Sales,Manager,19447,No,3
+RM049,46,Sales,Sales Executive,6272,No,4
+RM080,46,Human Resources,Human Resources,5521,No,4
+RM090,46,Sales,Sales Executive,10119,Yes,3
+RM094,46,Research & Development,Healthcare Representative,11173,No,3
+RM179,46,Sales,Sales Executive,10953,No,4
+RM210,46,Research & Development,Healthcare Representative,9896,No,3
+RM264,46,Sales,Manager,17372,No,3
+RM366,46,Research & Development,Manufacturing Director,5758,No,3
+RM413,46,Research & Development,Manufacturing Director,5310,No,3
+RM430,46,Research & Development,Research Director,18361,No,3
+RM434,46,Sales,Sales Executive,9571,No,3
+RM466,46,Research & Development,Healthcare Representative,11027,No,3
+RM724,46,Research & Development,Manufacturing Director,11345,No,3
+RM771,46,Research & Development,Research Director,20127,No,3
+RM779,46,Research & Development,Research Scientist,5115,No,4
+RM811,46,Sales,Manager,17965,No,3
+RM862,46,Sales,Manager,17548,No,4
+RM870,46,Research & Development,Research Director,19581,No,3
+RM878,46,Research & Development,Manufacturing Director,7879,No,3
+RM917,46,Sales,Manager,19289,No,3
+RM944,46,Human Resources,Human Resources,3923,No,3
+RM1032,46,Sales,Sales Executive,10596,Yes,3
+RM1081,46,Sales,Manager,17106,No,3
+RM1136,46,Sales,Manager,18067,No,3
+RM1232,46,Research & Development,Healthcare Representative,6062,No,3
+RM1236,46,Sales,Sales Executive,10868,No,3
+RM1278,46,Research & Development,Research Director,19828,No,3
+RM1286,46,Sales,Sales Executive,8491,No,3
+RM1299,46,Research & Development,Healthcare Representative,9426,Yes,4
+RM1323,46,Research & Development,Manufacturing Director,9078,No,3
+RM1328,46,Sales,Sales Executive,13725,No,3
+RM1334,46,Sales,Sales Executive,7814,Yes,4
+RM272,47,Research & Development,Manager,12349,Yes,3
+RM330,47,Research & Development,Research Director,18800,No,3
+RM348,47,Sales,Sales Representative,3476,No,3
+RM429,47,Research & Development,Manufacturing Director,5570,No,3
+RM533,47,Sales,Sales Executive,5460,No,3
+RM545,47,Sales,Sales Executive,14270,No,3
+RM567,47,Sales,Sales Executive,6897,Yes,3
+RM593,47,Research & Development,Manager,17252,No,3
+RM652,47,Sales,Sales Executive,5037,No,4
+RM666,47,Sales,Sales Representative,3794,No,3
+RM708,47,Research & Development,Manufacturing Director,5567,No,3
+RM720,47,Sales,Sales Executive,4663,No,3
+RM1021,47,Research & Development,Research Scientist,3920,No,3
+RM1025,47,Research & Development,Research Director,17669,No,3
+RM1068,47,Sales,Sales Executive,5091,No,3
+RM1155,47,Human Resources,Manager,20158,No,3
+RM1195,47,Sales,Manager,16472,No,3
+RM1224,47,Sales,Sales Executive,13436,Yes,3
+RM1235,47,Sales,Sales Executive,5478,No,3
+RM1304,47,Research & Development,Manufacturing Director,10833,No,3
+RM1322,47,Research & Development,Laboratory Technician,2605,No,3
+RM1371,47,Research & Development,Research Scientist,5967,No,3
+RM1415,47,Research & Development,Healthcare Representative,9133,No,4
+RM1422,47,Research & Development,Research Director,12457,No,3
+RM051,48,Research & Development,Laboratory Technician,5881,Yes,3
+RM353,48,Sales,Manager,13004,No,4
+RM445,48,Sales,Sales Executive,4551,No,3
+RM493,48,Research & Development,Manager,15902,No,3
+RM521,48,Sales,Sales Executive,8620,No,3
+RM679,48,Research & Development,Research Scientist,2759,No,3
+RM736,48,Research & Development,Healthcare Representative,4740,No,3
+RM737,48,Research & Development,Healthcare Representative,11499,No,3
+RM805,48,Research & Development,Manager,17385,No,4
+RM902,48,Research & Development,Laboratory Technician,3059,No,3
+RM905,48,Research & Development,Research Director,18765,No,3
+RM970,48,Research & Development,Manufacturing Director,8398,No,3
+RM1039,48,Sales,Sales Executive,5986,No,3
+RM1104,48,Sales,Sales Executive,6939,No,3
+RM1115,48,Research & Development,Research Scientist,2867,No,3
+RM1167,48,Research & Development,Manager,15702,No,4
+RM1205,48,Sales,Sales Representative,3155,Yes,3
+RM1332,48,Research & Development,Research Director,20165,No,3
+RM1352,48,Research & Development,Manager,17674,No,3
+RM002,49,Research & Development,Research Scientist,5630,No,4
+RM130,49,Research & Development,Manufacturing Director,7067,No,3
+RM202,49,Research & Development,Manufacturing Director,7304,No,3
+RM291,49,Research & Development,Research Director,19165,No,3
+RM317,49,Research & Development,Healthcare Representative,14464,No,3
+RM376,49,Research & Development,Healthcare Representative,11465,No,4
+RM474,49,Research & Development,Research Director,20002,No,3
+RM608,49,Sales,Sales Executive,8154,Yes,3
+RM640,49,Research & Development,Research Scientist,4080,No,3
+RM678,49,Research & Development,Laboratory Technician,7903,No,3
+RM822,49,Sales,Sales Executive,13620,No,3
+RM900,49,Research & Development,Manager,19211,No,3
+RM1007,49,Research & Development,Laboratory Technician,4784,Yes,4
+RM1045,49,Research & Development,Healthcare Representative,7151,No,3
+RM1055,49,Research & Development,Healthcare Representative,10966,No,3
+RM1072,49,Research & Development,Laboratory Technician,5289,No,4
+RM1148,49,Research & Development,Laboratory Technician,3711,No,3
+RM1177,49,Research & Development,Research Director,16913,No,3
+RM1182,49,Research & Development,Healthcare Representative,14466,No,3
+RM1193,49,Research & Development,Laboratory Technician,3087,No,3
+RM1196,49,Research & Development,Manager,15879,No,3
+RM1255,49,Sales,Sales Executive,5007,No,3
+RM1378,49,Research & Development,Research Director,19661,No,3
+RM1469,49,Sales,Sales Executive,5890,No,3
+RM1469,49,Sales,Sales Executive,5890,No,3
+RM037,50,Sales,Sales Representative,3183,Yes,3
+RM063,50,Research & Development,Research Director,19240,No,3
+RM107,50,Research & Development,Research Director,18672,No,3
+RM132,50,Sales,Sales Executive,9708,No,3
+RM166,50,Research & Development,Manager,20426,No,3
+RM184,50,Research & Development,Laboratory Technician,4190,No,3
+RM234,50,Sales,Manager,20017,No,3
+RM280,50,Research & Development,Research Director,19644,No,3
+RM368,50,Research & Development,Healthcare Representative,10996,No,3
+RM426,50,Research & Development,Manager,17546,No,3
+RM478,50,Human Resources,Manager,18700,No,3
+RM524,50,Research & Development,Laboratory Technician,3721,No,3
+RM529,50,Sales,Sales Executive,7296,Yes,3
+RM540,50,Sales,Sales Representative,4375,No,3
+RM589,50,Research & Development,Research Director,18139,No,3
+RM654,50,Research & Development,Manager,18424,No,3
+RM715,50,Research & Development,Research Director,17899,No,4
+RM722,50,Research & Development,Manufacturing Director,14473,No,3
+RM743,50,Research & Development,Laboratory Technician,2880,No,3
+RM752,50,Sales,Sales Executive,6847,No,3
+RM767,50,Research & Development,Research Director,19737,No,3
+RM802,50,Sales,Sales Executive,5228,Yes,3
+RM868,50,Research & Development,Manager,18356,No,4
+RM946,50,Research & Development,Research Director,17380,No,3
+RM1087,50,Research & Development,Research Director,14911,No,3
+RM1127,50,Sales,Manager,19831,No,3
+RM1139,50,Research & Development,Healthcare Representative,11745,No,3
+RM1178,50,Research & Development,Research Director,13769,No,3
+RM1453,50,Sales,Sales Executive,7228,Yes,3
+RM1462,50,Sales,Sales Executive,11354,Yes,3
+RM1462,50,Sales,Sales Executive,11354,Yes,3
+RM088,51,Research & Development,Laboratory Technician,2575,No,4
+RM092,51,Sales,Sales Executive,5941,No,4
+RM111,51,Research & Development,Healthcare Representative,7984,No,4
+RM124,51,Research & Development,Research Director,20037,No,3
+RM137,51,Research & Development,Manufacturing Director,11150,Yes,3
+RM157,51,Research & Development,Manufacturing Director,6632,No,3
+RM190,51,Research & Development,Healthcare Representative,14234,No,3
+RM214,51,Research & Development,Research Director,12990,No,3
+RM259,51,Research & Development,Research Scientist,3223,No,3
+RM300,51,Research & Development,Manufacturing Director,5982,No,3
+RM377,51,Sales,Sales Executive,5436,No,3
+RM617,51,Sales,Manager,16807,No,3
+RM780,51,Research & Development,Research Scientist,2961,Yes,3
+RM919,51,Sales,Manager,20347,No,4
+RM931,51,Research & Development,Laboratory Technician,3338,No,3
+RM963,51,Human Resources,Manager,14526,No,3
+RM972,51,Research & Development,Manufacturing Director,13642,No,3
+RM988,51,Sales,Sales Executive,11096,No,3
+RM1276,51,Research & Development,Manager,13616,No,3
+RM191,52,Research & Development,Manager,20499,No,3
+RM231,52,Research & Development,Laboratory Technician,3712,No,3
+RM238,52,Sales,Manager,19568,No,3
+RM318,52,Research & Development,Research Scientist,5441,Yes,3
+RM407,52,Research & Development,Manufacturing Director,8469,No,3
+RM409,52,Research & Development,Manager,17055,No,3
+RM469,52,Research & Development,Research Scientist,6077,No,3
+RM562,52,Sales,Manager,17356,No,3
+RM571,52,Research & Development,Research Scientist,4758,No,3
+RM588,52,Research & Development,Laboratory Technician,3649,No,4
+RM628,52,Research & Development,Manufacturing Director,14326,No,4
+RM700,52,Research & Development,Manager,17599,No,3
+RM750,52,Sales,Manager,20345,Yes,3
+RM807,52,Research & Development,Healthcare Representative,10945,No,3
+RM948,52,Sales,Sales Executive,8946,Yes,3
+RM995,52,Research & Development,Manufacturing Director,13747,No,3
+RM1001,52,Research & Development,Laboratory Technician,3450,No,3
+RM1435,52,Sales,Sales Representative,3982,No,3
+RM019,53,Sales,Manager,15927,No,3
+RM026,53,Research & Development,Manager,19594,No,3
+RM153,53,Sales,Sales Representative,2806,No,4
+RM185,53,Research & Development,Manufacturing Director,4950,No,3
+RM281,53,Research & Development,Research Director,18084,No,3
+RM503,53,Sales,Sales Executive,8881,No,4
+RM535,53,Research & Development,Research Director,15314,No,3
+RM557,53,Research & Development,Laboratory Technician,2950,No,3
+RM625,53,Sales,Sales Executive,11434,No,3
+RM647,53,Sales,Sales Executive,12336,No,3
+RM650,53,Research & Development,Research Director,14775,No,3
+RM702,53,Sales,Manager,15352,No,3
+RM761,53,Sales,Sales Executive,8025,No,3
+RM859,53,Research & Development,Manager,19106,No,3
+RM1044,53,Research & Development,Research Director,17098,No,3
+RM1112,53,Research & Development,Manufacturing Director,10669,Yes,3
+RM1204,53,Research & Development,Healthcare Representative,7505,No,3
+RM1269,53,Research & Development,Manufacturing Director,13465,No,4
+RM1397,53,Sales,Sales Executive,10948,Yes,3
+RM096,54,Research & Development,Research Director,14049,No,3
+RM113,54,Human Resources,Manager,17828,No,3
+RM220,54,Sales,Sales Executive,6440,No,3
+RM333,54,Research & Development,Research Scientist,5369,No,3
+RM393,54,Research & Development,Research Director,19906,No,3
+RM432,54,Research & Development,Laboratory Technician,4280,No,3
+RM511,54,Human Resources,Human Resources,11225,No,3
+RM576,54,Research & Development,Manufacturing Director,5985,No,3
+RM729,54,Research & Development,Manufacturing Director,11239,No,3
+RM772,54,Sales,Sales Executive,11186,No,3
+RM891,54,Research & Development,Manufacturing Director,11002,No,3
+RM895,54,Research & Development,Research Director,18279,No,3
+RM1009,54,Research & Development,Research Director,17828,No,3
+RM1077,54,Research & Development,Manager,16532,No,4
+RM1185,54,Research & Development,Manager,17926,No,4
+RM1306,54,Research & Development,Research Scientist,7354,No,3
+RM1398,54,Research & Development,Research Scientist,3397,No,3
+RM1407,54,Research & Development,Manufacturing Director,4940,No,3
+RM066,55,Research & Development,Manager,15256,No,3
+RM083,55,Sales,Sales Executive,10739,No,3
+RM188,55,Research & Development,Research Director,19222,No,3
+RM271,55,Research & Development,Manager,19545,No,3
+RM284,55,Research & Development,Laboratory Technician,5915,No,3
+RM380,55,Research & Development,Manager,17159,No,3
+RM446,55,Sales,Manager,17335,No,4
+RM569,55,Research & Development,Manager,20359,Yes,3
+RM609,55,Sales,Sales Executive,5660,Yes,3
+RM746,55,Research & Development,Healthcare Representative,6885,No,3
+RM775,55,Research & Development,Manager,17256,No,3
+RM788,55,Research & Development,Manufacturing Director,11476,No,3
+RM915,55,Research & Development,Healthcare Representative,14077,No,3
+RM956,55,Research & Development,Manager,19687,No,3
+RM976,55,Sales,Sales Executive,14195,Yes,3
+RM1011,55,Research & Development,Research Director,15232,No,3
+RM1066,55,Research & Development,Healthcare Representative,4535,No,3
+RM1117,55,Sales,Manager,20086,No,4
+RM1208,55,Research & Development,Research Scientist,4037,No,3
+RM1265,55,Research & Development,Research Director,19538,No,3
+RM1337,55,Research & Development,Research Scientist,3162,No,4
+RM1402,55,Human Resources,Manager,20136,No,3
+RM086,56,Research & Development,Manufacturing Director,7760,No,3
+RM123,56,Research & Development,Research Scientist,5463,Yes,3
+RM176,56,Research & Development,Research Scientist,4757,No,3
+RM402,56,Sales,Sales Executive,13712,No,3
+RM553,56,Research & Development,Healthcare Representative,11603,No,3
+RM773,56,Research & Development,Research Scientist,3442,No,3
+RM852,56,Research & Development,Manager,20443,No,3
+RM957,56,Human Resources,Manager,20217,No,3
+RM977,56,Research & Development,Manufacturing Director,13902,No,3
+RM1024,56,Research & Development,Research Scientist,2566,No,4
+RM1355,56,Research & Development,Laboratory Technician,3087,Yes,3
+RM1372,56,Sales,Sales Executive,5880,No,3
+RM1442,56,Research & Development,Healthcare Representative,6806,No,4
+RM1445,56,Research & Development,Laboratory Technician,2839,Yes,3
+RM164,57,Research & Development,Healthcare Representative,9939,No,3
+RM361,57,Research & Development,Healthcare Representative,7255,No,3
+RM425,57,Sales,Manager,14618,No,3
+RM1054,57,Research & Development,Research Scientist,5400,No,4
+RM099,58,Sales,Sales Executive,14372,No,3
+RM127,58,Research & Development,Healthcare Representative,10812,Yes,3
+RM158,58,Research & Development,Research Scientist,3846,No,4
+RM309,58,Research & Development,Healthcare Representative,6160,No,3
+RM596,58,Research & Development,Research Director,19746,Yes,3
+RM661,58,Research & Development,Laboratory Technician,2880,Yes,3
+RM675,58,Research & Development,Healthcare Representative,11052,No,3
+RM701,58,Research & Development,Research Scientist,2979,Yes,4
+RM939,58,Research & Development,Research Scientist,2872,No,3
+RM967,58,Research & Development,Manufacturing Director,10508,Yes,3
+RM1010,58,Research & Development,Research Director,20201,No,4
+RM1302,58,Sales,Manager,16791,No,4
+RM1311,58,Research & Development,Research Director,16287,No,3
+RM1375,58,Sales,Manager,18375,No,3
+RM007,59,Research & Development,Laboratory Technician,3170,No,4
+RM064,59,Sales,Sales Executive,8137,No,3
+RM071,59,Sales,Sales Executive,5973,No,3
+RM106,59,Human Resources,Manager,19344,No,4
+RM226,59,Research & Development,Research Scientist,2677,No,3
+RM233,59,Human Resources,Human Resources,2767,No,3
+RM744,59,Research & Development,Manufacturing Director,14226,No,3
+RM759,59,Sales,Manager,12404,No,3
+RM898,59,Sales,Sales Executive,5671,No,3
+RM920,59,Research & Development,Manufacturing Director,11012,No,3
+RM412,60,Research & Development,Manager,20066,No,3
+RM428,60,Sales,Sales Executive,10766,No,3
+RM537,60,Sales,Sales Executive,5905,No,3
+RM880,60,Sales,Sales Executive,5720,No,3
+RM1210,60,Research & Development,Healthcare Representative,11383,No,4
