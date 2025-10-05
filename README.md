@@ -77,11 +77,3 @@ graph TD
     H --> I[End];
 ```
 
-## Notes
-
-- All examples are runnable locally; no external cluster required.
-- Replace or extend the CSV files to experiment with your own datasets.
-
-## License
-
-This project is for educational purposes. If you reuse the materials, please provide attribution.
